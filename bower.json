@@ -1,0 +1,29 @@
+{
+  "name": "built.io",
+  "version": "2.1.1",
+  "homepage": "https://github.com/raweng/built.io-js-sdk-bower",
+  "description": "SDK for Built.io Backend",
+  "main": "./built_rt.min.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "built",
+    "backend",
+    "baas",
+    "mbaas",
+    "sdk",
+    "javascript"
+  ],
+  "authors": [
+    "Built.io Backend <info@built.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
